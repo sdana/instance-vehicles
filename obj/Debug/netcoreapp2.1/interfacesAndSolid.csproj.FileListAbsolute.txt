@@ -1,0 +1,11 @@
+C:\Users\Seth\Workspace\exercises\interfacesAndSolid\bin\Debug\netcoreapp2.1\interfacesAndSolid.deps.json
+C:\Users\Seth\Workspace\exercises\interfacesAndSolid\bin\Debug\netcoreapp2.1\interfacesAndSolid.runtimeconfig.json
+C:\Users\Seth\Workspace\exercises\interfacesAndSolid\bin\Debug\netcoreapp2.1\interfacesAndSolid.runtimeconfig.dev.json
+C:\Users\Seth\Workspace\exercises\interfacesAndSolid\bin\Debug\netcoreapp2.1\interfacesAndSolid.dll
+C:\Users\Seth\Workspace\exercises\interfacesAndSolid\bin\Debug\netcoreapp2.1\interfacesAndSolid.pdb
+C:\Users\Seth\Workspace\exercises\interfacesAndSolid\obj\Debug\netcoreapp2.1\interfacesAndSolid.csprojAssemblyReference.cache
+C:\Users\Seth\Workspace\exercises\interfacesAndSolid\obj\Debug\netcoreapp2.1\interfacesAndSolid.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Workspace\exercises\interfacesAndSolid\obj\Debug\netcoreapp2.1\interfacesAndSolid.AssemblyInfoInputs.cache
+C:\Users\Seth\Workspace\exercises\interfacesAndSolid\obj\Debug\netcoreapp2.1\interfacesAndSolid.AssemblyInfo.cs
+C:\Users\Seth\Workspace\exercises\interfacesAndSolid\obj\Debug\netcoreapp2.1\interfacesAndSolid.dll
+C:\Users\Seth\Workspace\exercises\interfacesAndSolid\obj\Debug\netcoreapp2.1\interfacesAndSolid.pdb
